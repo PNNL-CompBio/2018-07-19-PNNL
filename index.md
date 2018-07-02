@@ -195,7 +195,11 @@ Once you have enrolled, click on the "Pending" tab and enter a work package numb
 <p>
 <img src="assets/img/pending-wp.jpg" alt="pending">
 </p>
-
+<p>
+Lastly, you should receive an email confirming your enrollment.  If you did not enter a charge code, you will still be registered for the course, but a Training Coordinator will contact you before the course starts to obtain a charge code.
+</p>
+<p><img src="assets/img/confirmation-email.jpg">
+</p>
 <hr/>
 
 {% comment %} 
