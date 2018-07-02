@@ -67,12 +67,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 
 To register for this workshop, go to <a href="https://elm.pnl.gov">your PNNL training page</a>, and select the "Self-enroll tab" in the upper right-hand corner.
+Next, find the Software carpentry workshop and click enroll.
 <p>
 <img src="assets/img/self-enroll-1.jpg" alt="Self-enroll-1">
 </p>
 <p>
-Next, find the Software carpentry workshop and click enroll.
-Once you have enrolled, click on the "Pending" tab and enter a work package number to cover the $451.55 cost of the course.
+
+Once you have enrolled, click on the "Pending" tab and enter a work package number under  "charge code" to cover the $451.55 cost of the course.
 </p>
 <p>
 <img src="assets/img/pending-wp.jpg" alt="pending">
